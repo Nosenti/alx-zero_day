@@ -1,1 +1,1 @@
-Updated Readme page of git folder
+Updated README page of git folder
